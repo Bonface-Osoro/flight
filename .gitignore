@@ -141,6 +141,4 @@ data/*/*
 data/*
 !data/raw/
 results/*
-!results/SSA/
 figures/*
-sankey/*debug.log
